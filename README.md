@@ -25,7 +25,9 @@ Ideally, you wouldn't have the same files / folders in your repo yet, so you sho
 
 Each branch has ignores specific files you wouldn't want merged in when merging into your repo, however are needed for dev of the scaffold. To avoid conflicts in `.gitignore`, and adding files to your `.gitignore` you may not want, these are added locally in `.git/info/exclude`. This won't interfere with your repo. Each branch should list in its README the files to ignore, so you can add these to your exclude.
 
-### scaffold: gulp-pattern
+# list of scaffolds
+
+### gulp-pattern
 
 This scaffold sets up your init `gulpfile.js`, with a ready implementation
 of [gulp-pattern](https://github.com/snslss/gulp-pattern). It also creates the folder structure for your gulp tasks and workflows.
