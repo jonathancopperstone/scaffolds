@@ -6,7 +6,7 @@ Scaffolds for various tooling and configuration. Organised by branch.
 
 - gulp-pattern
     - [branch](https://github.com/johnnycopperstone/scaffolds/tree/gulp-pattern)
-    - [readme](#scaffold:-gulp-pattern)
+    - [readme](#gulp-pattern)
 
 ##### Using scaffolds
 
