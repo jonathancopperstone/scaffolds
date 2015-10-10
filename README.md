@@ -23,7 +23,7 @@ Ideally, you wouldn't have the same files / folders in your repo yet, so you sho
 
 ##### Developing scaffolds
 
-Each branch has ignores specific files you wouldn't want merged in when merging into your repo, however are needed for dev of the scaffold. To avoid conflicts in `.gitignore`, and adding files to your `.gitignore` you may not want, these are added locally in `.git/info/exclude`. This won't interfere with your repo. Each branch should list in its README the files to ignore, so you can add these to your exclude.
+Each branch ignores specific files you wouldn't want merged in when merging into your repo, however are needed for dev of the scaffold. To avoid conflicts in `.gitignore`, and adding files to your `.gitignore` you may not want, these are added locally in `.git/info/exclude`. This won't interfere with your repo. Each branch's README section (found here) should list the files to ignore, so you can add these to your exclude if you were to work on one.
 
 # list of scaffolds
 
