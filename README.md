@@ -2,10 +2,10 @@
 
 Scaffolds for various tooling and configuration. Organised by branch.
 
-##### Contents / Branches
+##### Branches (Scaffolds)
 
 - gulp-pattern
-    - [branch](https://github.com/johnnycopperstone/scaffolds/tree/gulp-pattern)
+    - [go to branch](https://github.com/johnnycopperstone/scaffolds/tree/gulp-pattern)
     - [readme](#gulp-pattern)
 
 ##### Using scaffolds
